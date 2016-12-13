@@ -1,0 +1,6 @@
+# Intellij garbage
+.idea/
+*.iml
+
+# Maven garbage
+target/
